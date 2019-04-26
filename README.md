@@ -17,9 +17,9 @@
 
 #### Tests
 * What assertions were made?
-  * Tests ensure each element renders without crashing. Each dynamic element has functional tests. Snapshot tests don't seem to run well on codesandbox.
+  * Eyeball tests
 * What assertions need to be / should be made?
-  * Snapshot tests could be made locally and used to update the repo.
+  * Render, functional, and snapshot tests
 
 #### UML
-![UML](assets/uml.jpg)
+N/A
